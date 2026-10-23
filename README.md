@@ -15,12 +15,7 @@
 - **Desktop interface** — built with Python and PySide6.
 
 ## Screenshots
-
-Screenshots can be added here as the interface evolves. For example:
-
-```markdown
-![NEXUS dashboard](docs/images/nexus-dashboard.png)
-```
+<img width="1363" height="713" alt="image" src="https://github.com/user-attachments/assets/c739783d-0dea-4c87-868c-2dc459076bd3" />
 
 ## Requirements
 
@@ -120,7 +115,4 @@ Issues, bug reports, and suggestions are welcome. Please include your Windows ve
 ## License
 
 No license has been selected yet. Until a license is added to this repository, all rights are reserved by the copyright holder. Add a `LICENSE` file before inviting others to reuse, modify, or distribute the project.
-
-## Screenshots
-<img width="1363" height="713" alt="image" src="https://github.com/user-attachments/assets/781cc81a-1f72-469f-adac-f411820148c9" />
 
