@@ -120,3 +120,7 @@ Issues, bug reports, and suggestions are welcome. Please include your Windows ve
 ## License
 
 No license has been selected yet. Until a license is added to this repository, all rights are reserved by the copyright holder. Add a `LICENSE` file before inviting others to reuse, modify, or distribute the project.
+
+## Screenshots
+<img width="1363" height="713" alt="image" src="https://github.com/user-attachments/assets/781cc81a-1f72-469f-adac-f411820148c9" />
+
